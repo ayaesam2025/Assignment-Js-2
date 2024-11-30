@@ -1,0 +1,23 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p {
+    font-size: 40px;
+    font-family:serif;
+}
+
+
+.btn{
+    width: 20%;
+  
+}
+
+.btn-primary {
+--bs-btn-bg: #1919f0;
+--bs-btn-hover-bg: #05802a;
+--bs-btn-hover-border-color: #040000;
+--bs-btn-border-color: #000000;
+transition: .2s;
+}
